@@ -17,3 +17,8 @@ p{
     font-family: monospace;
     font-size: xx-large;
 }
+
+.texto4 p{
+    color: pink;
+    background-color: blue;
+}
