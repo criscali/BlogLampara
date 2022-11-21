@@ -68,9 +68,22 @@ footer{
     background-color: crimson;
 }
 
+<<<<<<< HEAD
 .post4{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: coral;
     background-color: darkslategrey;
     font-size: 130px;
+=======
+.post4 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+    background-color: darkslategrey;
+    
+    
+}
+
+p{
+    font-size: 20px;
+>>>>>>> master
 }
