@@ -47,3 +47,8 @@ p{
     color: gold;
     background-color: darkslategrey;
 }
+
+.post p{
+    font-family: fantasy;
+    color: silver;
+}
