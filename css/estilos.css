@@ -68,8 +68,14 @@ footer{
     background-color: crimson;
 }
 
-.post4{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.post4 p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: coral;
     background-color: darkslategrey;
+    
+    
+}
+
+p{
+    font-size: 20px;
 }
