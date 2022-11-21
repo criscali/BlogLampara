@@ -64,6 +64,11 @@ p{
 }
 
 footer{
+<<<<<<< HEAD
     color: cadetblue;
     background-color: crimson;
+=======
+    color: brown;
+    background-color: violet;
+>>>>>>> prueba
 }
