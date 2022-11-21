@@ -48,7 +48,13 @@ p{
     background-color: darkslategrey;
 }
 
+<<<<<<< HEAD
 .post2{
     color: red;
     background-color: beige;
+=======
+.post p{
+    font-family: fantasy;
+    color: silver;
+>>>>>>> prueba
 }
