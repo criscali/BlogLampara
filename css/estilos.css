@@ -23,10 +23,17 @@ p{
     background-color: darkolivegreen;
 }
 
+.texto3{
+    background-color: deeppink;
+}
+
 .texto4 p{
     color: pink;
     background-color: blue;
 }
-.texto3{
-    background-color: deeppink;
+
+.texto5{
+    color: aquamarine;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
