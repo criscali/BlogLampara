@@ -18,9 +18,15 @@ p{
     font-size: xx-large;
 }
 
+.texto1{
+    color: cadetblue;
+    background-color: darkolivegreen;
+}
+
 .texto4 p{
     color: pink;
     background-color: blue;
+}
 .texto3{
     background-color: deeppink;
 }
