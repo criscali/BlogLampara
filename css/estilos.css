@@ -36,4 +36,11 @@ p{
     color: aquamarine;
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+.texto3{
+    background-color: deeppink;
+}
+
+.texto6{
+    color: gold;
+    background-color: darkslategrey;
 }
