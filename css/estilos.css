@@ -4,11 +4,16 @@ body{
 }
 
 .blog{
-    position: absolute;
-    margin-left: 40%;
+    position: relative;
+    margin-left: 30%;
 }
 .blog h1{
     font-family:  sans-serif;
     background-color: aqua;
     text-align: center;
+}
+
+p{
+    font-family: monospace;
+    font-size: xx-large;
 }
