@@ -79,3 +79,8 @@ footer{
 p{
     font-size: 20px;
 }
+
+.post5 p{
+    background-color: darkgreen;
+    color: white;
+}
