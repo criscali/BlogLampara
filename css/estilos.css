@@ -1,86 +1,68 @@
 body{
-    width: 80%;
-
+    
+    background-color: aquamarine;
 }
+
+.containerMain{
+    background-color: bisque;
+    width: 80%;
+    
+    position: absolute;
+    left: 10%;
+    top: 5%;
+}
+
+.fila{
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.columna {
+    float: left;
+    width: 45%;
+    padding-right: 5px;
+}
+
+img {
+    /* Para que sea responsiva */
+    width: 100%;
+}
+
+.imagenes{
+    width: 100%;
+    position: relative;
+    left: 5%;
+}
+
+.textos{
+    --background-color: crimson;
+    width: 90%;
+    position: relative;
+    left: 5%;
+}
+
 
 .blog{
     position: relative;
-    margin-left: 30%;
+    
 }
 .blog h1{
     font-family:  sans-serif;
-    background-color: aqua;
+    background-color: white;
     text-align: center;
 }
 
-p{
-    font-family: monospace;
-    font-size: xx-large;
-}
-
-.texto1{
-    color: cadetblue;
-    background-color: darkolivegreen;
-}
-
-.texto3{
-    background-color: deeppink;
-}
-
-.texto4 p{
-    color: pink;
-    background-color: blue;
-}
-
-.texto5{
-    color: aquamarine;
-    background-color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-
-.texto3{
-    background-color: deeppink;
-}
-
-.texto6{
-    color: gold;
-    background-color: darkslategrey;
-}
-
-.post2{
-    color: red;
-    background-color: beige;
-}
-
-.post p{
-    font-family: fantasy;
-    color: silver;
-}
-
-.post3{
-    color: yellow;
-    background-color: aqua;
-}
-
 footer{
+    background-color: gold;
+    height: 30%;
+}
+
+footer p{
+    text-align: center;
+}
+
+footer p i{
     color: white;
-    background-color: crimson;
-}
-
-.post4 p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: coral;
-    background-color: darkslategrey;
-    
-    
-}
-
-p{
-    font-size: 20px;
-}
-
-.post5 p{
-    background-color: darkgreen;
-    color: white;
+    text-align: center;
 }
