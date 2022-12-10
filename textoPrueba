@@ -1,3 +1,7 @@
 Hola este es un texto de prueba.
 esta es otra linea de prueba.
+<<<<<<< HEAD
 esta es una linea desde el fork.
+=======
+linea 3 desde github criscali.
+>>>>>>> 4ad7d69a678b66a05f8a1b5dd670aec4803e46ef
