@@ -1,6 +1,3 @@
 Hola este es un texto de prueba.
-<<<<<<< HEAD
-este es un texto de prueba.
-=======
 esta es otra linea de prueba.
->>>>>>> 3b71470232f70cb4b3daa2858d1f3da4058a34a0
+esta es una linea desde el fork.
